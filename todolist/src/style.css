@@ -1,0 +1,36 @@
+.red-btn {
+    background: red;
+    color: #fff;
+    height: 34px;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+.item {
+    line-height: 20px;
+    height: 20px;
+    margin-top: 20px;
+    font-size: 14px;    
+}
+.smart{
+    width: 280px;
+  }
+.smart input {
+    box-sizing: border-box;
+    width: 150px;
+    height: 32px;
+    line-height: 32px;
+    padding: 5px 10px;
+    outline: 0;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    background: #fff;
+    font: 13px/16px 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #404040;
+}
+.smart:hover input {
+    border-color:orangered;
+}
